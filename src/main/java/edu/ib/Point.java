@@ -2,8 +2,8 @@ package edu.ib;
 
 public class Point {
 
-    private double x;
-    private double y;
+    private float x;
+    private float y;
 
     public Point(float x, float y) {
         this.x = x;

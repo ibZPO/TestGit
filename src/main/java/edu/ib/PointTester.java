@@ -7,5 +7,7 @@ public class PointTester {
         Point p1= new Point(10,10);
 
         System.out.println(p1);
+
+        System.out.println("Hello world");
     }
 }
